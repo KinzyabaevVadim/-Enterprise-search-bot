@@ -17,7 +17,7 @@
 
 Вы получили нужную информацию.
 
-   ![image (3)](https://github.com/user-attachments/assets/14b8c5aa-5754-43a8-b8b7-b6e9114524a3)
+ ![image (3)](https://github.com/user-attachments/assets/14b8c5aa-5754-43a8-b8b7-b6e9114524a3)
 
 ## Источники информации
 Вся информация взята из открытых источников и с сайта "list-org.com". 
